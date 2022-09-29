@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+.text-lightsuccess{
+  color: #00a650;
+}
+.ui-item{
+  fill: #00a650;
+    height: 22px;
+    padding-left: 5px;
+    width: 40px;
+}
+.aria-hidden{
+  opacity: 0;
+}
 
 @keyframes App-logo-spin {
   from {
